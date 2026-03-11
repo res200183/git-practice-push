@@ -1,3 +1,4 @@
 Hello GitHub Push
 Second commit
-Change from local computer
+Change from local computer and Change from GitHub
+
